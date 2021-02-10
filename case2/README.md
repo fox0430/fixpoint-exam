@@ -23,3 +23,5 @@ nimble build
 ```
 nimble test
 ```
+
+[Code](https://github.com/fox0430/fixpoint-exam/blob/main/case1/tests/tcase2.nim)
