@@ -28,4 +28,4 @@ nimble build
 nimble test
 ```
 
-[Code](https://github.com/fox0430/fixpoint-exam/blob/main/case1/tests/tcase3.nim)
+[Code](https://github.com/fox0430/fixpoint-exam/blob/main/case3/tests/tcase3.nim)
